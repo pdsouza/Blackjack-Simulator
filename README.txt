@@ -1,4 +1,4 @@
-***You must have wxPython installed in order to run the GUI.
+***You must have wxPython installed in order to run the GUI. wxPython can be installed from http://www.wxpython.org/
 
 To run the game, run game_layout.py.
 
