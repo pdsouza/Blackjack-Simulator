@@ -1,3 +1,5 @@
+***You must have wxPython installed in order to run the GUI.
+
 To run the game, run game_layout.py.
 
 This is a Blackjack training game. The goal of the game is to try to match your strategy to a perfect Blackjack bot.
