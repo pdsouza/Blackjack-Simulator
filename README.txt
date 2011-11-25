@@ -5,5 +5,5 @@ by Preetam D'Souza and Max Guo
 
 To run the game, run game_layout.py.
 
-For instructions on how to play the game, please read Instructions.txt.
+For instructions on how to play the game, please read instructions.txt.
 
