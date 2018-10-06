@@ -1,5 +1,7 @@
 # Blackjack - Beat the Odds!
 
+![Screenshot](https://github.com/pdsouza/Blackjack-Simulator/blob/master/screenshot.png)
+
 To run the game, run game_layout.py.
 
 *You must have wxPython installed in order to run the GUI. wxPython can be installed from http://www.wxpython.org/*
